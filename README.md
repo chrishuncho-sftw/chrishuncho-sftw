@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chrishuncho-sftw
 - 👀 I’m interested in ...surfing the internet and i'm somewhat social 
-- 🌱 I’m currently learning ...how to use github 
-- 💞️ I’m looking to collaborate on ... github and learn more or how to use the app
+- 🌱 I’m currently learning ...how to become a software engineer 
+- 💞️ I’m looking to collaborate on ... many projects to meet new people and be a team player
 - 📫 How to reach me ...christopherrattray001@gmail.com
 
 <!---
